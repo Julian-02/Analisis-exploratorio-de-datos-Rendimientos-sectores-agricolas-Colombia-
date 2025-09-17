@@ -26,6 +26,9 @@ Bolívar lidera en producción total.
 
 Valle del Cauca presenta el mejor rendimiento por hectárea.
 
+<img width="872" height="794" alt="image" src="https://github.com/user-attachments/assets/39491f37-994b-4d76-8e03-c46f5afe3756" />
+
+
 <img width="1136" height="699" alt="image" src="https://github.com/user-attachments/assets/a33f0d05-ecdf-4cb6-bcb5-bc3ebc3edf09" />
 
 <img width="1385" height="687" alt="image" src="https://github.com/user-attachments/assets/22ce87f1-b5ce-4a4a-ab64-0bbf122f9d98" />
